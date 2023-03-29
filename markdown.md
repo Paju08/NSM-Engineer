@@ -1,4 +1,4 @@
-= Day 2
+--- Day 2 ---
 
 # This is a heading
 ## Heading 2
