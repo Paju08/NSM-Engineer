@@ -21,7 +21,7 @@ Day 6
 1. ssh into 172.16.10.100
 2.sudo yum install Elasticsearch-7.8.1
 3. sudo chown elasticsearch: /data/elasticsearch  
-4. sudo vi etc/elasticsearch/elasticsearch.yml
+4. sudo vi /etc/elasticsearch/elasticsearch.yml
 5. remove comment 17 and update it to sg10-cluster
 6. remove comment 23 and update sg10-node
 line 33: /data/elasticsearch
