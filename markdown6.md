@@ -66,7 +66,7 @@ curl localhost:9200
 curl localhost:9200/_cat/nodes?v
 
 
-installing kibana 
+# installing kibana 
 gain insight into the data inside Elasticsearch 
 
 sudo yum install kibana-7.8.1
@@ -128,7 +128,7 @@ sudo /usr/share/kafka/bin/kafka-console-consumer.sh --boootstrap-server 172.16.1
 
 
 
-Logstash
+# Logstash
 sudo yum install logstash-8.7.1-1
 cd /etc/logstash/conf.d/
 ll
